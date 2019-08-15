@@ -1,11 +1,13 @@
 Program: adding_report() function
+
 This program calls the adding_report() function which repeatedly takes positive integer input until the user quits and then sums the integers and prints a "report".
 The adding_report() function has 1 string parameter which indicates the type of report:
 
 "A" used as the argument to adding_report() results in printing of all of the input integers and the total
 "T" used as the argument results in printing only the total
 
-Additional Details
+Additional Details:
+
 initialize total variable which will sum integer values entered
 initialize items variable which will build a string of the integer inputs separated with a new line character
 define the adding_report function with one parameter report that will be a string with default of "T"
