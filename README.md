@@ -24,6 +24,6 @@ break out of while loop to end the function after printing the report ("A" or "T
 if not a digit and if not a "Q" then print a message that the "input is invalid"
 Call the adding_report function with "A" and then with "T" report parameters
 
-Run and test your code before submitting
+
 
 
